@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Bryan Akers",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "email": "bakers07@aurora.edu",
+    "phone": "630-785-7252",
+    "website": "https://bakers99.github.io",
+    "summary": "I am studying for a B.S. in Computer Science at Aurora University. I expect to graduate in Spring, 2022.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "60505",
+      "city": "Aurora",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Illinois"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "bakers99",
+        "url": "http://github.com/bakers99"
       },
       {
         "network": "linkedin",
@@ -61,32 +61,27 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "HTML"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
         "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "Aurora University, Aurora, IL",
+      "area": "Computer Science (expected Spring, 2022)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2018-08-27",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -95,16 +90,12 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Menards",
+      "position": "Sales",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2018-12-16",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
+      "summary": "Sales team member at Montgomery, IL location",
     },
     {
       "company": "UH Information Technology Services",
