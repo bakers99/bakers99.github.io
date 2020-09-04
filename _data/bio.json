@@ -8,7 +8,7 @@
     "website": "https://bakers99.github.io",
     "summary": "I am studying for a B.S. in Computer Science at Aurora University. I expect to graduate in Spring, 2022.",
     "location": {
-      "address": "",
+      "address": "907 S Farnswoth Ave",
       "postalCode": "60505",
       "city": "Aurora",
       "countryCode": "USA",
@@ -23,17 +23,7 @@
       {
         "network": "linkedin",
         "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "url": "https://www.linkedin.com/in/bryan-akers-4421b2153?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTPs6w%2F3WT6uvyFqo%2FFJ4FQ%3D%3D"
       }
     ]
   },
