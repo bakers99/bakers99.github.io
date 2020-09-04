@@ -1,119 +1,123 @@
 {
-  "basics": {
-    "name": "Bryan Akers",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "bakers07@aurora.edu",
-    "phone": "630-785-7252",
-    "website": "https://bakers99.github.io",
-    "summary": "I am studying for a B.S. in Computer Science at Aurora University. I expect to graduate in Spring, 2022.",
-    "location": {
-      "address": "907 S Farnswoth Ave",
-      "postalCode": "60505",
-      "city": "Aurora",
-      "countryCode": "USA",
-      "region": "Illinois"
-    },
-    "profiles": [
+   "basics":{
+      "name":"Bryan Akers",
+      "label":"Student",
+      "picture":"https://techfolios.github.io/template/images/molly.png",
+      "email":"bakers07@aurora.edu",
+      "phone":"630-785-7252",
+      "website":"https://bakers99.github.io",
+      "summary":"I am studying for a B.S. in Computer Science at Aurora University. I expect to graduate in Spring, 2022.",
+      "location":{
+         "address":"907 S Farnswoth Ave",
+         "postalCode":"60505",
+         "city":"Aurora",
+         "countryCode":"USA",
+         "region":"Illinois"
+      },
+      "profiles":[
+         {
+            "network":"github",
+            "username":"bakers99",
+            "url":"http://github.com/bakers99"
+         },
+         {
+            "network":"linkedin",
+            "username":"bryanakers",
+            "url":"https://www.linkedin.com/in/bryan-akers-4421b2153?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTPs6w%2F3WT6uvyFqo%2FFJ4FQ%3D%3D"
+         }
+      ]
+   },
+   "interests":[
       {
-        "network": "github",
-        "username": "bakers99",
-        "url": "http://github.com/bakers99"
+         "name":"internet of things",
+         "keywords":[
+            "Java",
+            "HTML"
+         ]
       },
       {
-        "network": "linkedin",
-        "username": "bryanakers",
-        "url": "https://www.linkedin.com/in/bryan-akers-4421b2153?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTPs6w%2F3WT6uvyFqo%2FFJ4FQ%3D%3D"
+         "name":"Web Development",
+         "keywords":[
+            
+         ]
+      },
+      {
+         "name":"Video Games",
+         "keywords":[
+            
+         ]
       }
-    ]
-  },
-  "interests": [
-    {
-      "name": "internet of things",
-      "keywords": [
-        "Java",
-        "HTML"
-      ]
-    },
-    {
-      "name": "Web Development",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Video Games",
-      "keywords": [
-      ]
-    }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "level": "",
-      "keywords": [
-        "C++",
-        "Java",
-        "Javascript",
-        "HTML"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "Ubuntu",
-        "Git/GitHub",
-      ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "Aurora University, Aurora, IL",
-      "area": "Computer Science (expected Spring, 2022)",
-      "studyType": "B.S.",
-      "startDate": "2018-08-27",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
-    }
-  ],
-  "work": [
-    {
-      "company": "Menards",
-      "position": "Sales",
-      "website": "",
-      "startDate": "2018-12-16",
-      "endDate": "Present",
-      "summary": "Sales team member at Montgomery, IL location",
-    },
-    {
-      "company": "O'Malleys Bar and Grill",
-      "position": "Barback/Dishwasher",
-      "startDate": "November 2017",
-      "endDate": "November 2018",
-      "summary": "",
-      "highlights": [
-        "Work for long hours, Lift heavy objects",
-        "Communication skills, Time management and prioritisation"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Freeman Elementary School",
-      "summary": "Assemble and organize classroom materials"
-    },
-    {
-      "organization": "Aurora Food Pantry",
-      "summary": "Organize and move food products"}
-  ],
-  "awards": [
-    {
-      "title": "Crimi Presidential Scholarship",
-      "date": "2018-Present",
-      "awarder": "Aurora University",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students with GPA over 2.75"
-    }
-  ]
+   ],
+   "skills":[
+      {
+         "name":"Languages and Frameworks",
+         "level":"",
+         "keywords":[
+            "C++",
+            "Java",
+            "Javascript",
+            "HTML"
+         ]
+      },
+      {
+         "name":"Toolsets/OS",
+         "level":"",
+         "keywords":[
+            "Ubuntu",
+            "Git/GitHub"
+         ]
+      }
+   ],
+   "education":[
+      {
+         "institution":"Aurora University, Aurora, IL",
+         "area":"Computer Science (expected Spring, 2022)",
+         "studyType":"B.S.",
+         "startDate":"2018-08-27",
+         "endDate":"Present",
+         "gpa":"",
+         "courses":[
+            
+         ]
+      }
+   ],
+   "work":[
+      {
+         "company":"Menards",
+         "position":"Sales",
+         "website":"",
+         "startDate":"2018-12-16",
+         "endDate":"Present",
+         "summary":"Sales team member at Montgomery, IL location"
+      },
+      {
+         "company":"O'Malleys Bar and Grill",
+         "position":"Barback/Dishwasher",
+         "startDate":"November 2017",
+         "endDate":"November 2018",
+         "summary":"",
+         "highlights":[
+            "Work for long hours, Lift heavy objects",
+            "Communication skills, Time management and prioritisation"
+         ]
+      }
+   ],
+   "volunteer":[
+      {
+         "organization":"Freeman Elementary School",
+         "summary":"Assemble and organize classroom materials"
+      },
+      {
+         "organization":"Aurora Food Pantry",
+         "summary":"Organize and move food products"
+      }
+   ],
+   "awards":[
+      {
+         "title":"Crimi Presidential Scholarship",
+         "date":"2018-Present",
+         "awarder":"Aurora University",
+         "summary":"Scholarships awarded to incoming freshmen and continuing students with GPA over 2.75"
+      }
+   ]
 }
