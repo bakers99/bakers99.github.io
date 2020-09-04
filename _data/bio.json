@@ -22,7 +22,7 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "bryanakers",
         "url": "https://www.linkedin.com/in/bryan-akers-4421b2153?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BTPs6w%2F3WT6uvyFqo%2FFJ4FQ%3D%3D"
       }
     ]
@@ -31,17 +31,17 @@
     {
       "name": "internet of things",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Java",
+        "HTML"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Web Development",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Video Games",
       "keywords": [
       ]
     }
@@ -88,63 +88,35 @@
       "summary": "Sales team member at Montgomery, IL location",
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "O'Malleys Bar and Grill",
+      "position": "Barback/Dishwasher",
+      "startDate": "November 2017",
+      "endDate": "November 2018",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Work for long hours, Lift heavy objects",
+        "Communication skills, Time management and prioritisation"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+      "organization": "Freeman Elementary School",
+      "summary": "Assemble and organize classroom materials"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      "organization": "Aurora Food Pantry",
+      "summary": "Organize and move food products"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
+      "title": "Crimi Presidential Scholarship",
+      "date": "2018-Present",
+      "awarder": "Aurora University",
+      "summary": "Scholarships awarded to incoming freshmen and continuing students with GPA over 2.75"
     }
   ]
 }
